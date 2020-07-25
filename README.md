@@ -17,6 +17,7 @@
   dotnet --version
   ```
 - Azure Database for Postgresql 계정
+- qnamaker.ai 계정 
 
 ## 실행 방법
 
