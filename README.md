@@ -27,6 +27,12 @@
     ```bash
     git clone https://github.com/gywlssww/azure_chatbot.git
     ```
+    ```bash
+    git clone https://github.com/gywlssww/azure_chatbot_quiz.git
+    ```
+    ```bash
+    git clone https://github.com/gywlssww/azure_chatbot_qnabot.git
+    ```
 
 - Run the bot from Visual Studio:
 
