@@ -5,6 +5,7 @@
   - 소스 코드 설명 동영상 (pptx 파일 내 음성 설명 포함) : https://konkukackr-my.sharepoint.com/:p:/g/personal/tarahjjeon_konkuk_ac_kr/EWdjoj95DoNJvIcY37lFWJYBEldsYY8mZ5m5sRGDEEh0YQ?e=SIekv5
 
 
+-
 
   1. 1개의 강의 동영상 + 동영상 강의 질의 응답용 챗봇 (QnA maker.ai 기반)
   > https://github.com/gywlssww/azure_chatbot_qnabot   
