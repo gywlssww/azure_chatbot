@@ -63,7 +63,7 @@
 - Enter a Bot URL of `http://localhost:3978/api/messages`
 
 
-## 동영상 질의 응답 용 봇: 조교 딩의 인사가 담긴 AdaptiveCard 메세지가 출력되면 정상적으로 작동이 시작된 것 (Index.cshtml)
+## 동영상 질의 응답 용 봇: 조교 딩의 인사 AdaptiveCard 메세지 출력 시 정상 작동 시작 (Index.cshtml)
 
 > 로딩에 시간이 오래 걸릴 경우 '하이!' '안녕' 등의 인사 메세지를 입력해보세요!
 
